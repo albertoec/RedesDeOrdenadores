@@ -1,2 +1,6 @@
-# intro-sockets-ro1-9-6
-Repositorio que contiene la pŕactica de calentamiento para la asignatura Redes de Ordenadores. En él se encuentra el proyecto del Servidor y el del Cliente.
+# Repositorio de Entrega
+Repositorio que contiene la unión de los repositorios Cliente y Servidor.
+
+# Integrantes
+ - Moisés Carral Ortiz
+ - Alberto Estévez Caldas
